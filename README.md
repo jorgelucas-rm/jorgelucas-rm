@@ -4,6 +4,8 @@
 
 😄 Pronouns: He/Him
 
+🌱  Age: 24
+
 💻 I'm a software development student!
 
 🏡 I’m from Fortaleza - Brazil.
