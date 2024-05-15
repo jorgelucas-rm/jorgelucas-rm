@@ -1,10 +1,10 @@
 # 👋 Welcome!
 
-🤠 Hi, i’m @jorgelucas-rm
-
-😄 Pronouns: He/Him
+🤠 Hi, i’m Jorge Lucas
 
 🌱  Age: 24
+
+🚻 Pronouns: He/Him
 
 💻 I'm a software development student!
 
