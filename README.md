@@ -12,7 +12,7 @@
 
 📚 I’m currently learning Java ☕.
 
-🚀 2023 Goals: Find a new job.
+🚀 2024 Goals: Find a new job.
 
 ⚡ Fun fact: I'm a flag football player 🏈.
 
