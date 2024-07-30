@@ -1,22 +1,22 @@
-# 👋 Welcome!
+# :wave: Welcome!
 
-🤠 Hi, i’m Jorge Lucas
+:cowboy_hat_face: Hi, i’m Jorge Lucas 
 
-🌱  Age: 24
+:older_man:  Age: 25
 
-🚻 Pronouns: He/Him
+:restroom: Pronouns: He/Him
 
-💻 I'm a software development student!
+:computer: I'm a software development student and backend developer!
 
-🏡 I’m from Fortaleza - Brazil.
+:books: I’m currently learning Java ☕ and Spring Boot :seedling:.
 
-📚 I’m currently learning Java ☕.
+:house_with_garden: I’m from Fortaleza - Brazil.
 
-🚀 2024 Goals: Find a new job.
+:rocket: 2024 Goals: Find a new job.
 
-⚡ Fun fact: I'm a flag football player 🏈.
+:zap: Fun fact: I'm a flag football player :football:.
 
 
-## 📫 How to reach me
+## :mailbox: How to reach me
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jorgelucas-rm) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgelucasrm/)
