@@ -1,6 +1,13 @@
-# :wave: Welcome!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,12&height=180&section=header&text=Welcome!&fontAlignY=35&fontSize=40&fontColor=fff&animation=twinkling&fontAlaigny=35"/>
 
-## :technologist: About me
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jorgelucas-rm&show_icons=true&count_private=true&hide_border=true&theme=github_dark" alt="Jorge Lucas Status github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgelucas-rm&layout=compact&hide_border=true&theme=github_dark" />
+</div>
+
+## :technologist: About me 
+[![](https://visitcount.itsvg.in/api?id=jorgelucas-rm&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 :cowboy_hat_face: Hi, i’m Jorge Lucas 
 
@@ -45,3 +52,6 @@
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jorgelucas-rm) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgelucasrm/)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,12&height=180&section=footer&animation=twinkling&fontAlaigny=35"/>
