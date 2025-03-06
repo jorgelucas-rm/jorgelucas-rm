@@ -17,7 +17,7 @@
 
 :computer: I'm a software development student and backend developer!
 
-:books: I’m currently learning: Docker :whale:, Golang :goggles:, Java :coffee: and Spring :seedling:.
+:books: I’m currently learning: Docker :whale:, Golang :goggles:, Java :coffee:, Python :snake:, JavaScript :beer: and Spring :seedling:.
 
 :house_with_garden: I’m from Fortaleza - Brazil.
 
