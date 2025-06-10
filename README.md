@@ -37,6 +37,12 @@ Período: `jan/2024` - `atual`
 
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="assets/irede.jpeg"/>](https://irede.org.br/)
+**Desenvolvedor Backend** \
+[**iRede**](https://irede.org.br/#/home) • Bolsista \
+Linguagens & Tecnologias: `Python`, `FastAPI`, `Java`, `Spring`, `GoLang`, `PostgreSQL`, `MongoDB` e `Neo4j`.\
+Período: `jun/2025` - `atual`
+<br/>
 
 ## :dart: Skills
 
